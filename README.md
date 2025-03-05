@@ -7,10 +7,26 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas  
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express, PHP  
-- **Bases de Datos**: MySQL, MongoDB  
-- **Otros**: Git, GitHub, Docker  
+### 🔹 Desarrollo Web  
+- HTML, CSS, JavaScript, Bootstrap 5, WordPress, PHP  
+
+### 🔹 Programación  
+- Java, Python, Bash Script, XML  
+
+### 🔹 Bases de Datos  
+- MySQL  
+
+### 🔹 Control de Versiones  
+- Git, GitHub  
+
+### 🔹 Redes y Virtualización  
+- CISCO, VirtualBox  
+
+### 🔹 Ofimática  
+- Paquete de Office  
+
+### 🔹 Otros  
+- Markdown  
 
 ---
 
@@ -28,5 +44,7 @@
 ---
 
 ## 📫 Contacto  
+📧 Email: [jimenezragelangel@gmail.com](mailto:jimenezragelangel@gmail.com)  
+📞 Teléfono: +34 603 758 003  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelJimenezR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
-📧 Email: angeljimenezragel@email.com  
+
