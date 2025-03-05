@@ -6,6 +6,16 @@
 
 ---
 
+## 🏆 Logros y Métricas  
+🎯 **Repositorios publicados:** +[Número de repositorios]  
+🌟 **Stars en proyectos:** +[Número de estrellas]  
+🔄 **Forks en proyectos:** +[Número de forks]  
+💬 **Contribuciones en GitHub:** +[Número de contribuciones]  
+📅 **Días seguidos de actividad:** [Racha actual]  
+🎖 **Proyectos colaborativos:** [Mencionar algún proyecto en equipo]  
+
+---
+
 ## 🛠️ Tecnologías y herramientas  
 ### 🔹 Desarrollo Web  
 - HTML, CSS, JavaScript, Bootstrap 5, WordPress, PHP  
@@ -38,13 +48,22 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ángel Jiménez Ragel GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)  
+## 📊 Estadísticas de GitHub  
+📈 **Contribuciones recientes**  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tuusuario&theme=tokyonight)  
+
+🔥 **Racha de contribuciones**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight)  
+
+📊 **Lenguajes más usados**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)  
+
+🏅 **Trofeos GitHub**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=tokyonight&no-bg=true)  
 
 ---
 
 ## 📫 Contacto  
 📧 Email: [jimenezragelangel@gmail.com](mailto:jimenezragelangel@gmail.com)  
 📞 Teléfono: +34 603 758 003  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelJimenezR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel%20Jiménez%20Ragel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ángel-jiménez-ragel-64941633a/)  
