@@ -31,9 +31,10 @@
 ---
 
 ## 📌 Proyectos Destacados  
-🔹 [Proyecto 1](https://github.com/tuusuario/proyecto1) - Descripción breve  
-🔹 [Proyecto 2](https://github.com/tuusuario/proyecto2) - Descripción breve  
-🔹 [Más proyectos...](https://github.com/tuusuario?tab=repositories)  
+### 📚 **Proyecto BookTrack**  
+**📌 Descripción:** BookTrack es una aplicación web diseñada para gestionar y organizar libros de manera eficiente.  
+🔗 **Enlace al repositorio:** [Proyecto-BookTrack](https://github.com/Proyecto-BookTrack/Proyecto-BookTrack)  
+🛠 **Tecnologías usadas:** HTML, CSS, JavaScript, PHP, MySQL  
 
 ---
 
@@ -47,4 +48,3 @@
 📧 Email: [jimenezragelangel@gmail.com](mailto:jimenezragelangel@gmail.com)  
 📞 Teléfono: +34 603 758 003  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelJimenezR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
-
