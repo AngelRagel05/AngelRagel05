@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ángel Jiménez Ragel  
 
-💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+💻 Desarrollador de Aplicaciones Web  
 🚀 Apasionado por el desarrollo web y la tecnología  
 🌍 Siempre aprendiendo nuevas tecnologías  
 
