@@ -47,16 +47,16 @@
 ## 📊 Estadísticas de GitHub  
 
 📈 **Contribuciones recientes**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelRagel05&theme=tokyonight)  
 
 🔥 **Racha de contribuciones**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelRagel05&theme=tokyonight&hide_border=true)  
 
-📊 **Lenguajes más usados**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)  
+## 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRagel05&layout=compact&theme=tokyonight)
 
 🏅 **Trofeos GitHub**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=tokyonight&no-bg=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AngelRagel05&theme=tokyonight&no-bg=true)  
 
 ---
 
