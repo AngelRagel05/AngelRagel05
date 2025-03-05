@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ángel Jiménez Ragel  
 
-<!--
-**AngelRagel05/AngelRagel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+🚀 Apasionado por el desarrollo web y la tecnología  
+🌍 Siempre aprendiendo nuevas tecnologías  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express, PHP  
+- **Bases de Datos**: MySQL, MongoDB  
+- **Otros**: Git, GitHub, Docker  
+
+---
+
+## 📌 Proyectos Destacados  
+🔹 [Proyecto 1](https://github.com/tuusuario/proyecto1) - Descripción breve  
+🔹 [Proyecto 2](https://github.com/tuusuario/proyecto2) - Descripción breve  
+🔹 [Más proyectos...](https://github.com/tuusuario?tab=repositories)  
+
+---
+
+## 📊 GitHub Stats  
+![Ángel Jiménez Ragel GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelJimenezR-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
+📧 Email: angeljimenezragel@email.com  
