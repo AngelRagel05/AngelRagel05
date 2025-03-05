@@ -6,16 +6,6 @@
 
 ---
 
-## 🏆 Logros y Métricas  
-🎯 **Repositorios publicados:** +[Número de repositorios]  
-🌟 **Stars en proyectos:** +[Número de estrellas]  
-🔄 **Forks en proyectos:** +[Número de forks]  
-💬 **Contribuciones en GitHub:** +[Número de contribuciones]  
-📅 **Días seguidos de actividad:** [Racha actual]  
-🎖 **Proyectos colaborativos:** [Mencionar algún proyecto en equipo]  
-
----
-
 ## 🛠️ Tecnologías y Herramientas  
 
 | **Desarrollo Web**  | **Programación**       | **Bases de Datos**  | **Control de Versiones** |  
