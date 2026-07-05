@@ -57,13 +57,14 @@ Me interesa el diseño de software tanto como el desarrollo de funcionalidades. 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">
 </p>
 
 ### Bases de datos
 <p>
-  <img src="https://img.shields.io/badge/MySQL-BFDBFE?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-BFDBFE?style=flat-square&logo=postgresql&logoColor=336791" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-BFDBFE?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
+  <img src="https://img.shields.io/badge/MySQL-065F46?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-991B1B?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 ### Herramientas
@@ -75,13 +76,12 @@ Me interesa el diseño de software tanto como el desarrollo de funcionalidades. 
   <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ### Otros
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
@@ -90,37 +90,65 @@ Me interesa el diseño de software tanto como el desarrollo de funcionalidades. 
 
 ## Proyectos destacados
 
-### MIKIWI
-E-commerce desarrollado con Laravel, React e Inertia.js, con gestión de productos, usuarios, carrito, pedidos y panel de administración.
+### 🚀 MIKIWI
 
-**Tecnologías:** Laravel · React · Inertia.js · PostgreSQL · Tailwind CSS  
-**Repositorio:** `[añadir enlace al repositorio]`  
-**Demo:** `[añadir enlace a la demo]`
+E-commerce Full Stack desarrollado como proyecto final de DAW, centrado en una arquitectura mantenible y escalable utilizando Laravel, React e Inertia.js.
+
+**Stack**  
+Laravel · React · Inertia.js · PostgreSQL · Tailwind CSS
+
+**Lo que más destaca**  
+Arquitectura inspirada en DDD  
+Principios SOLID  
+Git Flow  
+Código modular y mantenible
+
+**🔗 Repositorio**  
+[joangriful/MiKiwi](https://github.com/joangriful/MiKiwi)
+
+**🌐 Proyecto**  
+[mikiwi.onrender.com](https://mikiwi.onrender.com/)
 
 ### Music Library Manager
-Aplicación de escritorio en Python para gestionar bibliotecas musicales locales, comparar canciones y trabajar con metadatos.
+> Aplicación de escritorio desarrollada en Python para gestionar bibliotecas musicales locales, comparar canciones con playlists de YouTube y automatizar tareas de organización mediante una arquitectura modular y mantenible.
 
-**Tecnologías:** Python · Tkinter · SQLAlchemy · SQLite  
-**Repositorio:** `[añadir enlace al repositorio]`  
-**Demo:** `No disponible`
+**Stack**
 
-### BookTrack
-Aplicación web para gestionar y organizar libros.
+`Python` · `Tkinter` · `SQLAlchemy` · `SQLite`
 
-**Tecnologías:** PHP · MySQL · JavaScript · HTML · CSS  
-**Repositorio:** [Proyecto-BookTrack](https://github.com/Proyecto-BookTrack/Proyecto-BookTrack)  
-**Demo:** `[añadir enlace a la demo]`
+**Lo que más destaca**
+
+- Arquitectura modular y mantenible
+- Automatización de procesos
+- Comparación con YouTube
+- Gestión de metadatos musicales
+
+🔗 **Repositorio**
+
+[AngelRagel05/AppMusic](https://github.com/AngelRagel05/AppMusic)
 
 ---
 
 ## Estadísticas
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRagel05&layout=compact&theme=tokyonight" alt="Top Languages">
+<p align="center">
+  Actividad y tecnologías con más presencia en mis proyectos recientes.
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelRagel05&theme=tokyo-night" alt="GitHub Activity Graph">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AngelRagel05&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelRagel05&theme=github_dark" alt="Repos per language">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelRagel05" alt="GitHub Activity Graph">
+  </a>
 </p>
 
 ---
@@ -129,4 +157,3 @@ Aplicación web para gestionar y organizar libros.
 
 - Email: [jimenezragelangel@gmail.com](mailto:jimenezragelangel@gmail.com)
 - LinkedIn: [Ángel Jiménez Ragel](https://www.linkedin.com/in/%C3%A1ngel-jim%C3%A9nez-ragel-64941633a/)
-- Ubicación: Sevilla, España
