@@ -39,7 +39,7 @@
 
 ## Sobre mí
 
-Soy titulado en Desarrollo de Aplicaciones Web y he trabajado especialmente con Laravel y React en proyectos orientados a construir productos web sólidos y mantenibles. Me interesa seguir mejorando a nivel técnico, aprender en entornos reales y aportar valor en equipos de desarrollo. Actualmente busco una oportunidad como desarrollador web junior.
+Me interesa el diseño de software tanto como el desarrollo de funcionalidades. En mis proyectos estoy aplicando una arquitectura inspirada en Domain-Driven Design (DDD), junto con principios SOLID y Clean Code, buscando crear aplicaciones bien estructuradas, mantenibles y preparadas para crecer.
 
 ---
 
