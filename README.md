@@ -90,7 +90,7 @@ Me interesa el diseño de software tanto como el desarrollo de funcionalidades. 
 
 ## Proyectos destacados
 
-### 🚀 MIKIWI
+### MIKIWI
 
 E-commerce Full Stack desarrollado como proyecto final de DAW, centrado en una arquitectura mantenible y escalable utilizando Laravel, React e Inertia.js.
 
@@ -103,10 +103,10 @@ Principios SOLID
 Git Flow  
 Código modular y mantenible
 
-**🔗 Repositorio**  
+**Repositorio**  
 [joangriful/MiKiwi](https://github.com/joangriful/MiKiwi)
 
-**🌐 Proyecto**  
+**Proyecto**  
 [mikiwi.onrender.com](https://mikiwi.onrender.com/)
 
 ### Music Library Manager
@@ -123,7 +123,7 @@ Código modular y mantenible
 - Comparación con YouTube
 - Gestión de metadatos musicales
 
-🔗 **Repositorio**
+**Repositorio**
 
 [AngelRagel05/AppMusic](https://github.com/AngelRagel05/AppMusic)
 
@@ -135,11 +135,11 @@ Código modular y mantenible
   Actividad y tecnologías con más presencia en mis proyectos recientes.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=AngelRagel05&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelRagel05&theme=github_dark" alt="Repos per language">
@@ -154,6 +154,9 @@ Código modular y mantenible
 ---
 
 ## Contacto
+
+¿Te interesa mi perfil o alguno de mis proyectos?  
+Puedes contactar conmigo a través de:
 
 - Email: [jimenezragelangel@gmail.com](mailto:jimenezragelangel@gmail.com)
 - LinkedIn: [Ángel Jiménez Ragel](https://www.linkedin.com/in/%C3%A1ngel-jim%C3%A9nez-ragel-64941633a/)
